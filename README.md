@@ -1,5 +1,5 @@
 # mind-control
-Term Project for CS370 (Operating Systems) at Colorado State University.  Developed with partner Andrew Fiel.
+Term Project for CS370 (Operating Systems) at Colorado State University.  Developed with partner [Andrew Fiel](https://github.com/andrew-fiel).
 
 ## Overview
 
