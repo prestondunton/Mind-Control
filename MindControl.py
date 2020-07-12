@@ -91,7 +91,7 @@ def main():
 	print("\t█                                                               █")
 	print("\t■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■")
 
-	requests.post("https://mind-control-csu.herokuapp.com/api/reddit",data=[("concentration",maxConcentration),("key","HeyItsPreston")])
+	requests.post("https://mind-control-csu.herokuapp.com/api/reddit",data=[("concentration",maxConcentration),("key",'''key removed for security reasons''')])
 
 	print("\t█                                                               █")
 	print("\t█              Your highest concentration was %02d!               █" % maxConcentration)
