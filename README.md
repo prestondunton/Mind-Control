@@ -20,6 +20,6 @@ The file [pybrain.py](https://github.com/prestondunton/mind-control/blob/master/
 
 
 
-![Project Architecture](https://lh6.googleusercontent.com/B-rpPeLOYhOHS8QmEzBQKBgYecElZS0cA10dlzwLBPbjaZ-hJ0MQzxvE36IQFvUxzh6i0gAMLOdjd_1KzWTet6MmKShN-X_TBVWUm9xm1q4GkOgQCxcKzzUA3zMmjBLxeF9vT8ii6gE)
-![User Interface](https://lh5.googleusercontent.com/ZYY-XfKfnV11ZAn_w9qtEh9T4ZcH0M1kGkv3iEgOd6Bh3BSSzCMDemRUDsZqtC9cj2HTlDCmUxLvHUxR8BAI0ltgvw4deFq7RiYW4ukU)
-![Example Post](https://user-images.githubusercontent.com/43427035/80314297-f227ad80-87ad-11ea-9b74-37dfa2018cc3.png)
+![Project Architecture](/images/ProjectArchitecture.png)
+![User Interface](/images/UserInterface.png)
+![Example Post](/images/ExamplePost.png)
